@@ -5,7 +5,7 @@
 **Replaces Warrior Execute sound with the classic "clank" sound from older WoW versions.**
 
 ## Features
-- ✅ Works on all WoW versions: Classic Era, TBC, Wrath, Cata, and Retail
+- ✅ Works on all current WoW versions: Classic Era, TBC, MOP, and Retail
 - ⚡ No configuration needed
 - 🔧 Just install and play
 
