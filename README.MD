@@ -9,6 +9,10 @@
 - ⚡ No configuration needed
 - 🔧 Just install and play
 
+## Installation
+
+Download from CurseForge: https://www.curseforge.com/wow/addons/classic-warrior-execute-sound
+
 ---
 
 *Perfect for Warriors who miss the old Execute sound from classic WoW.*
