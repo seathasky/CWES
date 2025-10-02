@@ -1,0 +1,8 @@
+## Interface: 110200, 50500, 50501, 40402, 30405, 11507
+## Title: Classic Warrrior Execute Sound
+## Author: Seathasky
+## Version: 3.0.0
+## Notes: Completely replaces Warrior's Execute sound with old clank sound across all WoW versions.
+## IconTexture: Interface\AddOns\CWES\ICON\cwes.tga
+
+Main.lua
